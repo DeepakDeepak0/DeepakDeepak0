@@ -42,4 +42,5 @@
 
 <br/>
 
-![Snake animation].(https://github.com/DeepakDeepak0/DeepakDeepak0/blob/output/github-contribution-grid-snake.svg)
+###My GitHub Contributions
+![Snake animation](https://github.com/DeepakDeepak0/DeepakDeepak0/blob/output/github-contribution-grid-snake.svg)
