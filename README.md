@@ -1,10 +1,24 @@
 <h1 align="center">Hello EveryOne👋, I'm Deepak</h1>
-<h3 align="center">Passionate towards Full Stack developer</h3>
+<br/>
+<div align="center"> <img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjMzNTU4MjEsIm5iZiI6MTcyMzM1NTUyMSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODExVDA1NTIwMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdlMDM5OTE2NjIyZGQ3MGQ0MGM1NzE0MjI4MWFmYzljNzM5MDU2ZTc3MDcwZmY5MTEwMzI3NzE1ZjllMzdlMzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.rMQ_xE3ADfUjyrmvJr4SFvZQK94IPEdIR6EUyZBcdmk"> </div>
+
+
+<h2 align="center">🔥Passionate towards Full Stack developer</h2>
 <br/>
 
-- 🖤Visit on my Portfolio Site --- [https://deepak-kumar00-portfolio.netlify.app/](https://deepak-kumar00-portfolio.netlify.app/)
+- 🖤Visit on my Portfolio Site🖤 --- [https://deepak-kumar00-portfolio.netlify.app/](https://deepak-kumar00-portfolio.netlify.app/)
 
-- 🌱 I’m currently learning **Backend technologies like SpringBoot**
+-  **🔸Dedicated and passionate professional with a strong background in Web development and solving Leetcode DSA problems in Java for problem solving**
+
+-  **🔸I solved 95+ Leetcode problems .My work is driven by a commitment to excellence and a desire to make a positive impact**
+
+-  **🔸Always eager to collaborate, share knowledge and learn from others**
+
+-  **🔸I’m currently learning Backend technologies like SpringBoot**
+
+-  **🔸Always Eager to learn new things**
+
+-  **🔸Believe into consistency**
 
 - 📫 How to reach me --- **deepakmaurya1917@gmail.com**
 
@@ -25,3 +39,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakdeepak0&show_icons=true&theme=dracula&locale=en" alt="deepakdeepak0" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakdeepak0&theme=dark" alt="deepakdeepak0" /></p>
+
+<br/>
+
+![Snake animation].(https://github.com/DeepakDeepak0/DeepakDeepak0/blob/output/github-contribution-grid-snake.svg)
