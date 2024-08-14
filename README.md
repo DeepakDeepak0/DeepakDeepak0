@@ -1,11 +1,10 @@
 <h1 align="center">Hello EveryOne👋, I'm Deepak</h1>
 <br/>
-<div align="center"> <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"></div>
-<div align="center"> <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"> </div>
+<img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjM2NDcyNTcsIm5iZiI6MTcyMzY0Njk1NywicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODE0VDE0NDkxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk2OTBkMjYyMTAzMDBjMTc2ZmY1ODRmN2RlNGU0NzRiZTJhZDFhMzA0ZDA3MjBkNWI4MTZkNzZhNWRhZjU3NWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.D2_mYkJmgGdrGttrCrxzgOsXRYyFtj2WAwnlqzGpfWw" >
 
-
-
-<h1 align="center">🔥Aspiring Full Stack developer</h1>
+<br/>
+<div><h1 align="center">🔥Aspiring Full Stack developer</h1><div align="center"> <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"> </div>
+</div>
 <br/>
 
 - 🖤Visit on my Portfolio Site🖤 --- [https://deepak-kumar00-portfolio.netlify.app/](https://deepak-kumar00-portfolio.netlify.app/)
