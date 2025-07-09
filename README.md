@@ -11,7 +11,7 @@
 
 -  **🔸Dedicated and passionate professional with a strong background in Web development and solving Leetcode DSA problems in Java for problem solving**
 
--  **🔸I solved 95+ Leetcode problems .My work is driven by a commitment to excellence and a desire to make a positive impact**
+-  **🔸I solved 250+ Leetcode problems .My work is driven by a commitment to excellence and a desire to make a positive impact**
 
 -  **🔸Always eager to collaborate, share knowledge and learn from others**
 
