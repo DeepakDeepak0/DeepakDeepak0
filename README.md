@@ -9,19 +9,18 @@
 
 - 🖤Visit on my Portfolio Site🖤 --- [https://deepak-kumar00-portfolio.netlify.app/](https://deepak-kumar00-portfolio.netlify.app/)
 
--  **🔸Dedicated and passionate professional with a strong background in Web development and solving Leetcode DSA problems in Java for problem solving**
+Hello Everyone! Hope you're all doing well 
 
--  **🔸I solved 250+ Leetcode problems .My work is driven by a commitment to excellence and a desire to make a positive impact**
+🔥 I have a strong interest in building scalable web applications using Java, Spring Boot, and ReactJS. I believe in continuous learning and staying updated with evolving technologies.
 
--  **🔸Always eager to collaborate, share knowledge and learn from others**
+🔹 I'm actively solving Data Structures and Algorithms problems on LeetCode, with over 200+ problems solved using Java — sharpening my problem-solving mindset.
 
--  **🔸I’m currently learning Backend technologies like SpringBoot**
+🔹 I have hands-on experience in web development, and I love combining creativity with practical coding solutions.
 
--  **🔸Always Eager to learn new things**
+🔹  Always open to collaborating, sharing knowledge, and learning from peers. I strive to create impactful solutions through clean code and smart design.
 
--  **🔸Believe into consistency**
-
-- 📫 How to reach me --- **deepakmaurya1917@gmail.com**
+🚀 Always eager to work on real-world projects and open to internship opportunities.
+- 📫 How to reach me --- **deepakkumarmaurya688@gmail.com**
 
 - ⚡Fact --- **Consistency is what transforms Average into Excellence**
 
