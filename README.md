@@ -50,3 +50,5 @@
 <h2>My GitHub Contributions</h2>
 
 ![snake gif](https://github.com/DeepakDeepak0/DeepakDeepak0/blob/output/github-contribution-grid-snake.svg)
+
+<img src="https://raw.githubusercontent.com/Code-Mars/Code-Mars/output/snake.svg" alt="Snake animation" />
