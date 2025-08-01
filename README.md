@@ -9,6 +9,12 @@
 
 - 🖤Visit on my Portfolio Site🖤 --- [https://deepak-kumar00-portfolio.netlify.app/](https://deepak-kumar00-portfolio.netlify.app/)
 
+  <!-- LeetCode Stats Start -->
+<!-- Auto-updated by GitHub Action -->
+(loading...)
+<!-- LeetCode Stats End -->
+
+
 Hello Everyone! Hope you're all doing well 
 
 🔥 I have a strong interest in building scalable web applications using Java, Spring Boot, and ReactJS. I believe in continuous learning and staying updated with evolving technologies.
