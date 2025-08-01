@@ -1,30 +1,29 @@
-name: Update LeetCode Stats
+name: ♻️ Update LeetCode Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *' # daily at 12AM UTC
-  workflow_dispatch:
+    - cron: '0 0 * * *'  # Every day at 12 AM UTC
+  workflow_dispatch:     # Allow manual run from GitHub
 
 jobs:
-  update-stats:
+  update:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repo
+      - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Set up Node
+      - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
           node-version: 20
 
-      - name: Run Script
-        run: |
-          node fetch-leetcode-stats.js
+      - name: Run LeetCode Stats Script
+        run: node fetch-leetcode-stats.js
 
-      - name: Commit & Push
+      - name: Commit Changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add leetcode-stats.md
-          git commit -m "♻️ Update LeetCode stats" || echo "No changes"
+          git add README.md
+          git commit -m "🔄 Auto-update LeetCode stats" || echo "No changes to commit"
           git push
