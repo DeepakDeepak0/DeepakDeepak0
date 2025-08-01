@@ -2,7 +2,7 @@ name: ♻️ Update LeetCode Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Every day at 12 AM UTC
+   - cron: '*/5 * * * *'
   workflow_dispatch:     # Allow manual run from GitHub
 
 jobs:
