@@ -12,6 +12,8 @@ https.get(url, (res) => {
     const count = json.submitStatsGlobal.acSubmissionNum;
 
     const stats = `
+<!-- LeetCode Stats Start -->
+<!-- Auto-updated by GitHub Action -->
 ### ✅ LeetCode Stats - [Deepak_Deepak](https://leetcode.com/Deepak_Deepak)
 
 📊 **LeetCode Performance**
@@ -22,8 +24,16 @@ https.get(url, (res) => {
 | 🟡 Medium  | ${count[2].count}             | 💪 ${beat[1].percentage}% |
 | 🔴 Hard    | ${count[3].count}              | ⚔️ ${beat[2].percentage}% |
 | 📈 Total   | ${count[0].count}             | -         |
+<!-- LeetCode Stats End -->
 `;
 
-    fs.writeFileSync("leetcode-stats.md", stats.trim());
+    const readme = fs.readFileSync("README.md", "utf8");
+
+    const updated = readme.replace(
+      /<!-- LeetCode Stats Start -->(.|\n)*?<!-- LeetCode Stats End -->/,
+      stats.trim()
+    );
+
+    fs.writeFileSync("README.md", updated);
   });
 });
