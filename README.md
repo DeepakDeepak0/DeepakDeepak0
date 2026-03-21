@@ -13,16 +13,6 @@
 <!-- Auto-updated by GitHub Action -->
 ### ✅ LeetCode Stats - [Deepak_Deepak](https://leetcode.com/Deepak_Deepak)
 
-📊 **LeetCode Performance**
-
-| Difficulty | Problems Solved | Beats (%) |
-|------------|-----------------|-----------|
-| 🟢 Easy    | 136             | 🔥 94.33% |
-| 🟡 Medium  | 155             | 💪 91.13% |
-| 🔴 Hard    | 26              | ⚔️ 82.25% |
-| 📈 Total   | 317             | -         |
-<!-- LeetCode Stats End -->
-
 
 Hello Everyone! Hope you're all doing well 
 
